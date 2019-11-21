@@ -5,9 +5,9 @@
 
 ## 2. Open git bash and add these command :
 
-	> git config --global user.name "kaamrul"
+	> git config --global user.name "xxx"
 	
-	> git config --global user.email "mk.kamrulhasan@outlook.com"
+	> git config --global user.email "xxx@domain.com"
 	
 	> git config --list
 	
