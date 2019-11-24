@@ -5,9 +5,9 @@
 
 ## 2. Open git bash and add these command :
 
-	> git config --global user.name "xxx"
+	> git config --global user.name "abc"
 	
-	> git config --global user.email "xxx@domain.com"
+	> git config --global user.email "abc@domain.com"
 	
 	> git config --list
 	
@@ -41,7 +41,7 @@
 
 ## 9.Clone Repository
 
-	> git clone https://github.com/maainul/Git.git
+	> git clone https://github.com/kaamrul/Git.git
 
 	> git add .
 
