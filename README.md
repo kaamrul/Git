@@ -51,7 +51,7 @@
 
 	> git status
 
-## 10.Pull to Remote Serrver
+## 10.Pull to Remote Server
 
 	> git status
 
@@ -67,7 +67,7 @@
 
 	> git status
 
-## 11.Push to Remote Serrver
+## 11.Push to Remote Server
 
 	> git status
 
